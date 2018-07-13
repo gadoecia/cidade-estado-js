@@ -2,23 +2,36 @@
 # cidade-estado-js
 
 **GADO E CIA** 
-github.com/gadoecia
-www.gadoecia.com.br
+Contribuição da Gado e Cia para a comunidade JavaScript.
 
-Arquivo js com estrutura de dados dos estados e cidades brasileiras.
+---
+
+Modulo com cidade e estados brasileiros.
+
+---
+**Instalação:**
+
+
+    $ yarn add cidade-estado
+    
+	$ npm install cidade-estado --save
+**JS:**
+
+    import UF from 'cidade-estado'
+
 ___
 **Para obter a lista de UF:**
 
     UF.estados
-*Retorna:*
+*Retorno:*
 
-    [{ label: 'SP', value: 'SP' }]
+    [{ label: 'SP', value: 'SP' }, ...]
 
 ____
-**Array de objetos com as cidades do estado.**
+**Array de objetos com as cidades do estado:**
 
     UF["AC"]
-*Retorna:*
+*Retorno:*
 
-    [{ label:  "Acrelândia", value:  "Acrelândia"  }]
+    [{ label:  "Acrelândia", value:  "Acrelândia"  }, ...]
 
