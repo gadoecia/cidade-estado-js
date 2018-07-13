@@ -1,9 +1,10 @@
 {
   "name": "cidade-estado",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Cidades e estados brasileiros.",
   "license": "Apache",
   "repository": "gadoecia/cidade-estado-js",
+  "main": "cidade-estado.js",
   "maintainers": [
     {
       "name": "Maurilio Campos",
@@ -13,8 +14,6 @@
   ],
   "engines": {
     "node": ">=4"
-  },
-  "scripts": {
   },
   "files": [
     "cidade-estado.js"
@@ -26,7 +25,5 @@
     "brasil",
     "brasileiro",
     "enderecos"
-  ],
-  "devDependencies": {
-  }
+  ]
 }
