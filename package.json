@@ -1,0 +1,32 @@
+{
+  "name": "cidade-estado",
+  "version": "0.0.3",
+  "description": "Cidades e estados brasileiros.",
+  "license": "Apache",
+  "repository": "gadoecia/cidade-estado-js",
+  "maintainers": [
+    {
+      "name": "Maurilio Campos",
+      "email": "maurilio@gadoecia.com.br",
+      "url": "github.com/mauriliohrc"
+    }
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+  },
+  "files": [
+    "cidade-estado.js"
+  ],
+  "keywords": [
+    "uf",
+    "estados",
+    "cidades",
+    "brasil",
+    "brasileiro",
+    "enderecos"
+  ],
+  "devDependencies": {
+  }
+}
